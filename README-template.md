@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![Screenshot.png](images/Screenshot.png)
+![Screenshot.png](screenshot.jpg)
 
 
 
@@ -27,7 +27,7 @@ Now i will continue to learn Javascript And reactjs
 
 ## Author
 
-- Website - [Shehryar Nasir](https://github.com/SHERRY699/Qr-code)
+- Website - [Shehryar Nasir](https://sherry699.github.io/HTML-CSS-QR-CODE/)
 - Frontend Mentor - [SHERRY699](https://www.frontendmentor.io/profile/SHERRY699)
 
 
